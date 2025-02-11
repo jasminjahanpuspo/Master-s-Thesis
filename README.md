@@ -1,2 +1,2 @@
-# Digital_Mamography
+# Image Processing
 Master's Thesis  (Ongoing)
